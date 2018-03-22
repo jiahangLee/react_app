@@ -2,6 +2,7 @@
   "name": "order7",
   "version": "0.1.0",
   "private": true,
+  "homepage":".",
   "dependencies": {
     "antd": "^3.3.1",
     "antd-mobile": "^2.1.8",
